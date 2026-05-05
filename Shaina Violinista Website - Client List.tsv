@@ -1,6 +1,7 @@
 Client Name	Arts & Culture	Auto, Luxury & Lifestyle Brands	Events, Venues & Festivals	Hotels & Resorts	Non-Profits & Foundations	Private Clubs & Luxury Establishments	Special Event Venues	Sports & Athletic Associations	Tech, Corporate & FInance	Wine & Spirits
 Adobe Systems	No	No	No	No	No	No	No	No	Yes	No
 Alila Napa Valley	No	No	No	Yes	No	No	No	No	No	No
+American Group Psychotherapy Association	No	No	No	No	Yes	No	No	No	No	No
 Annadel Estate Winery	No	No	No	No	No	No	No	No	No	Yes
 Apple	No	No	No	No	No	No	No	No	Yes	No
 Artesa Winery	No	No	No	No	No	No	No	No	No	Yes
@@ -16,6 +17,7 @@ Bellagio Las Vegas	No	No	No	Yes	No	No	No	No	No	No
 Beltane Ranch	No	No	No	Yes	No	No	No	No	No	No
 Bentley Reserve	No	No	No	No	No	No	Yes	No	No	No
 Beringer Vineyards	No	No	No	No	No	No	No	No	No	Yes
+Bloomingdale's	No	Yes	No	No	No	No	No	No	No	No
 BMW	No	Yes	No	No	No	No	No	No	No	No
 Boston Consulting Group	No	No	No	No	No	No	No	No	Yes	No
 Bottle Rock	No	No	Yes	No	No	No	No	No	No	No
@@ -24,6 +26,8 @@ Burning Man	No	No	Yes	No	No	No	No	No	No	No
 Cabfest	No	No	Yes	No	No	No	No	No	No	No
 Cache Creek Casino	No	No	No	Yes	No	No	No	No	No	No
 Cade Estate Winery	No	No	No	No	No	No	No	No	No	Yes
+Cadillac	No	Yes	No	No	No	No	No	No	Yes	No
+California Academy of Sciences	Yes	No	Yes	No	No	No	No	No	No	No
 California Jazz Conservatory	Yes	No	No	No	No	No	No	No	No	No
 Calistoga Ranch	No	No	No	Yes	No	No	No	No	No	No
 Carnegie Hall	No	No	Yes	No	No	No	No	No	No	No
@@ -34,6 +38,7 @@ Chalk Hill Estate	No	No	No	No	No	No	No	No	No	Yes
 Charles Krug	No	No	No	No	No	No	No	No	No	Yes
 Cirque du Soleil	Yes	No	No	No	No	No	No	No	No	No
 Cisco	No	No	No	No	No	No	No	No	Yes	No
+Citizens Bank	No	No	No	No	No	No	No	No	Yes	No
 Classical Tahoe	Yes	No	No	No	No	No	No	No	No	No
 Cliff Lede Wines	No	No	No	No	No	No	No	No	No	Yes
 Club Fugazi	Yes	No	No	No	No	No	No	No	No	No
@@ -43,7 +48,8 @@ Dannijo	No	Yes	No	No	No	No	No	No	No	No
 Davis Estates	No	No	No	No	No	No	Yes	No	No	No
 De Young Museum	Yes	No	No	No	No	No	No	No	No	No
 Dell	No	No	No	No	No	No	No	No	Yes	No
-Despertares Mexico	No	No	Yes	No	No	No	No	No	No	No
+Despertares Mexico	Yes	Yes	Yes	No	No	No	Yes	No	No	No
+Digital Law Marketing	No	No	No	No	No	No	No	No	Yes	No
 Domaine Carneros	No	No	No	No	No	No	No	No	No	Yes
 Elizabeth Spencer Winery	No	No	No	No	No	No	No	No	No	Yes
 Elliston Vineyards	No	No	No	No	No	No	No	No	No	Yes
@@ -58,6 +64,7 @@ Ferrari Carano Vineyards and Winery	No	No	No	No	No	No	No	No	No	Yes
 Fillmore SF	No	No	Yes	No	No	No	No	No	No	No
 Filoli	Yes	No	No	No	No	No	No	No	No	No
 Flood Mansion	No	No	No	No	No	No	Yes	No	No	No
+Fogarty Innovation	No	No	No	No	Yes	No	No	No	No	No
 Four Seasons	No	No	No	Yes	No	No	No	No	No	No
 Freemasons	Yes	No	No	No	No	No	No	No	No	No
 Gardener Ranch	No	No	No	No	No	No	Yes	No	No	No
@@ -72,6 +79,7 @@ Hans Fahden Vineyards	No	No	No	No	No	No	No	No	No	Yes
 Herbst Theatre	No	No	Yes	No	No	No	No	No	No	No
 Hermes	No	Yes	No	No	No	No	No	No	No	No
 Hilton	No	No	No	Yes	No	No	No	No	No	No
+Hotel Del Coronado	No	Yes	Yes	Yes	No	No	No	No	No	No
 IAAPA	No	No	Yes	No	No	No	No	No	No	No
 IBM	No	No	No	No	No	No	No	No	Yes	No
 ILEA	No	No	No	No	Yes	No	No	No	No	No
@@ -94,12 +102,15 @@ Lightning In a Bottle	No	No	Yes	No	No	No	No	No	No	No
 Louis Martini Winery	No	No	No	No	No	No	No	No	No	Yes
 Love Shack Fancy	No	Yes	No	No	No	No	No	No	No	No
 LymeLight Foundation	No	No	No	No	Yes	No	No	No	No	No
+Marin Academy	Yes	No	No	No	No	No	No	No	No	No
 Marin Art & Garden Center	No	No	No	No	No	No	Yes	No	No	No
 Markham Vineyards	No	No	No	No	No	No	No	No	No	Yes
 Materra / Cunat Family Vineyards	No	No	No	No	No	No	No	No	No	Yes
 Mayacama Golf Club	No	No	No	No	No	Yes	No	No	No	No
 Mayacamas Vineyards	No	No	No	No	No	No	No	No	No	Yes
 Meadowwood	No	No	No	Yes	No	No	No	No	No	No
+Meals for Wheels	No	No	No	No	Yes	No	No	No	No	No
+Memento Mori Winery	No	Yes	No	No	No	No	No	No	No	Yes
 Meraki	No	No	No	No	No	No	No	No	Yes	No
 Mercedes	No	Yes	No	No	No	No	No	No	No	No
 Mercury Soul	Yes	No	No	No	No	No	No	No	No	No
@@ -121,6 +132,7 @@ Oracle Park (Giant’s Stadium)	No	No	No	No	No	No	No	Yes	No	No
 Oregon Shakespeare Festival	No	No	Yes	No	No	No	No	No	No	No
 Pacific Union Club	No	No	No	No	No	Yes	No	No	No	No
 Pandora	No	No	No	No	No	No	No	No	Yes	No
+Patek Philippe	No	Yes	No	No	No	No	No	No	No	No
 Pebble Beach Resort	No	No	No	Yes	No	No	No	No	No	No
 Peju Province Winery	No	No	No	No	No	No	No	No	No	Yes
 Penfolds	No	No	No	No	No	No	No	No	No	Yes
@@ -135,9 +147,11 @@ Raymond Vineyard & Cellar	No	No	No	No	No	No	No	No	No	Yes
 Red Cross	No	No	No	No	Yes	No	No	No	No	No
 Regency Ballroom	No	No	Yes	No	No	No	No	No	No	No
 Rengstorff House	No	No	No	No	No	No	Yes	No	No	No
+Rise Festival	Yes	No	Yes	No	No	No	Yes	No	No	No
 Ritz Carlton	No	No	No	Yes	No	No	No	No	No	No
 Robert Mondavi Winery	No	No	No	No	No	No	No	No	No	Yes
 Rock the Bells	No	No	Yes	No	No	No	No	No	No	No
+Rockefeller Center	No	No	Yes	No	No	No	No	No	No	No
 Round Hill Country Club	No	No	No	No	No	Yes	No	No	No	No
 Roy Estate	No	No	No	No	No	No	No	No	No	Yes
 Rudd Estate	No	No	No	No	No	No	No	No	No	Yes
@@ -164,6 +178,7 @@ Sonoma Golf Club	No	No	No	No	No	Yes	No	No	No	No
 Sonoma Horse Park	No	No	No	No	No	No	Yes	No	No	No
 Sonoma Mission Inn	No	No	No	Yes	No	No	No	No	No	No
 Spark Capital	No	No	No	No	No	No	No	No	Yes	No
+Stanford Jazz Festival	Yes	No	Yes	No	No	No	No	No	No	No
 St Joseph’s Art Academy	Yes	No	No	No	No	No	No	No	No	No
 St Regis	No	No	No	Yes	No	No	No	No	No	No
 Stag’s Leap	No	No	No	No	No	No	No	No	No	Yes
@@ -186,6 +201,7 @@ Toyota	No	Yes	No	No	No	No	No	No	No	No
 Tre Posti	No	No	No	No	No	No	Yes	No	No	No
 Triple S Ranch	No	No	No	No	No	No	Yes	No	No	No
 Tsar Nicoulai Caviar	No	Yes	No	No	No	No	No	No	No	No
+Tyson and Mendes	No	No	No	No	No	No	No	No	Yes	No
 Uber	No	No	No	No	No	No	No	No	Yes	No
 UBS Workplace Wealth Solutions	No	No	No	No	No	No	No	No	Yes	No
 University Club	No	No	No	No	No	Yes	No	No	No	No
